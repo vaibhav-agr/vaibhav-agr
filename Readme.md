@@ -21,7 +21,7 @@
 | **Other Tools**         | RabbitMQ, Redis, Sidekiq, Git, Postman, Grafana (Basic) |
 
 <br></br>
-### Some Project Links
+### Some Project Links 🚜
 * Leads Reminder App - [Website Link](https://leadsapp.vsagrawal.in)
 * Hotel Room Booking App - [GitHub Link](https://github.com/vaibhav-if/book-movie-app)
 * Book Movie App - [GitHub Link](https://github.com/vaibhav-if/book-movie-app)
