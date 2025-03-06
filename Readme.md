@@ -1,6 +1,6 @@
 # Hi, I am Vaibhav Agrawal 🙋‍♂️
 
-## Software Engineer | ROR | MERN | PERN | Python
+## Software Engineer | Ruby on Rails | MERN | Python
 <img width="114" alt="image" src="https://github.com/user-attachments/assets/e64dcd03-00c0-4b2f-acd1-2519091914a3" />
 
 ### I like to build stuff on the Web.
