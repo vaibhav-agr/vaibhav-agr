@@ -1,6 +1,6 @@
 # Hi, I am Vaibhav Agrawal 🙋‍♂️
 
-## Software Engineer | Ruby on Rails | MERN | Python
+## Full Stack Software Engineer | Ruby on Rails | AWS Certified
 <img width="114" alt="image" src="https://github.com/user-attachments/assets/e64dcd03-00c0-4b2f-acd1-2519091914a3" />
 
 ### I like to build stuff on the Web.
@@ -11,14 +11,13 @@
 
 ### Technical Skills 💻
 
-| Category             | Technologies & Tools                                       |
-|----------------------|-----------------------------------------------------------|
-| **Programming Languages** | Java, JavaScript, Python                             |
-| **Backend Development**   | Ruby on Rails (RoR), Express.js, Spring Boot, Flask, REST API |
-| **Frontend Development**  | ReactJS, HTML5, CSS3, JavaScript, jQuery, Tailwind, Bootstrap, Responsive and Accessible Design |
-| **Database**             | PostgreSQL, MongoDB                                   |
-| **Cloud Development**    | AWS (Basic)                                          |
-| **Other Tools**         | RabbitMQ, Redis, Sidekiq, Git, Postman, Grafana (Basic) |
+| Category             | Skills/Technologies                                    |
+|----------------------|-------------------------------------------------------|
+| **Languages & Frameworks** | Ruby on Rails, JavaScript, ReactJS, Node.js, Python |
+| **Databases** | PostgreSQL, MongoDB, Redis                             |
+| **Cloud & DevOps** | AWS (Certified), GCP, Argo CD                           |
+| **Tools & Technologies** | RestAPIs, RabbitMQ, Sidekiq, Grafana, Git, RSpec, Cypress |
+| **Other Skills** | Data Structures and Algorithms, Problem Solving Skills, System Design, Programming, Coding, Communication, Collaboration, Agile Methodologies, Research Oriented Skills, Full-stack development |
 
 
 ### Some Project Links 🚜
