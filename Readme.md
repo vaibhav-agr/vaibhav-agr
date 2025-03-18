@@ -6,7 +6,7 @@
 ### I like to build stuff on the Web.
 
 3 years of hands-on experience building and maintaining products for product-based companies. Skilled in writing clean and maintainable code, designing and documenting REST APIs, debugging issues and optimizing performance. 
->Contributions made are under organisation's private repository and not available on GitHub.
+>Contributions made are under organisation's private repository using my org's email id and not available here.
 
 
 ### Technical Skills 💻
