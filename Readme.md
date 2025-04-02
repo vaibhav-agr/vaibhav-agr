@@ -22,9 +22,12 @@
 
 ### Some Project Links 🚜
 * Leads Reminder App - [Website Link](https://leadsapp.vsagrawal.in)
+* Weather Details Agent - [GitHub Link](https://github.com/vaibhav-if/weather-details-agent)
 * Hotel Room Booking App - [GitHub Link](https://github.com/vaibhav-if/book-movie-app)
 * Book Movie App - [GitHub Link](https://github.com/vaibhav-if/book-movie-app)
 
 
 ### How to reach me 📨
 Send an email to [vaibhavagr711@gmail.com](mailto:vaibhavagr711@gmail.com)
+
+Actively looking for opportunities where I can contribute meaningfully over long term and advance in my career! [Resume Link](https://drive.google.com/file/d/1HhD9TOTOnbsa2alqJTcluIhmJ8kXQ2e-/view?usp=sharing)
