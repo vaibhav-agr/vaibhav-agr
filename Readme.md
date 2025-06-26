@@ -21,7 +21,7 @@
 
 
 ### Some Project Links 🚜
-* Leads Reminder App - [Website Link](https://leadsapp.vsagrawal.in)
+* Leads Reminder App - [GitHub Link](https://github.com/vaibhav-agr/lead-reminder)
 * Weather Details Agent - [GitHub Link](https://github.com/vaibhav-if/weather-details-agent)
 * Hotel Room Booking App - [GitHub Link](https://github.com/vaibhav-if/book-movie-app)
 * Book Movie App - [GitHub Link](https://github.com/vaibhav-if/book-movie-app)
